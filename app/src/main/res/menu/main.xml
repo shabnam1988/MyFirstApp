@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@id/action_urlaub"
+        android:orderInCategory="100"
+        android:title="Urlaub"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@id/action_ferien"
+        android:orderInCategory="100"
+        android:title="Ferien"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@id/action_spass"
+        android:orderInCategory="100"
+        android:title="Spaß machen"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@id/action_freunde"
+        android:orderInCategory="100"
+        android:title="Freunde Treffen"
+        app:showAsAction="never"
+
+        />
+
+</menu>

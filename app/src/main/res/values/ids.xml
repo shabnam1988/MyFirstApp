@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_urlaub" type="id" />
+    <item name="action_ferien" type="id" />
+    <item name="action_spass" type="id" />
+    <item name="action_freunde" type="id" />
+</resources>
